@@ -163,7 +163,7 @@ a{
         display: flex;
         flex-direction: column;
         text-align: center;
-        widt:70%;
+        width: 80%;
         
     }
     .container4{
@@ -184,5 +184,15 @@ a{
         padding: 0 30px;
       }
       
+    .grid-container p{
+        font-size: 1.2rem;
+        line-height: 1.5;
+
+    }
+    #programmer{
+        margin-top: 40px;
+    }
   }
+
+
   
