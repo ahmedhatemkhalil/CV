@@ -163,6 +163,7 @@ a{
         display: flex;
         flex-direction: column;
         text-align: center;
+        widt:70%;
         
     }
     .container4{
